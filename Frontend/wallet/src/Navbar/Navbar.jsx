@@ -1,4 +1,4 @@
-import MywalletImage from "./thirdddd.jpg"
+import MywalletImage from "./solanaa.png"
 
 export function Navbar(){
     return(
